@@ -81,6 +81,10 @@
 
 ## Aug 2020 - Oct 2020
 
+    Role: Technical Team Lead Supporting the Online Leasing System
+    * Angular
+    * .Net Core
+
     Skills
     * React
 
@@ -88,6 +92,10 @@
     * Firebase
 
 ## Oct 2020 - Present
+
+    Role: Technical Team Lead Supporting the Online Leasing System
+    * Angular
+    * .Net Core
 
     Skills
     * React
