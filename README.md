@@ -66,6 +66,7 @@
     * DocuSign
     * Box.com
     * Salesforce
+    * Azure DevOps
 
 ## Apr 2020 - Aug 2020
 
@@ -100,3 +101,6 @@
     Skills
     * React
     * .Net Core - Clean Architecture
+    
+    Software Integration
+    * Azure Active Directory
