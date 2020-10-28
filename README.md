@@ -28,7 +28,7 @@
 
 ## March 2015 - May 2017
 
-    Role: Co-Technical Lead in a team that migrated integration points and data between MRI and Microsoft Dynamics AX Integration
+    Role: Co-Technical Lead in a team that migrated integration points and data between MRI and Microsoft Dynamics AX
 
     Skills
     * Data modeling
