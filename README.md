@@ -80,19 +80,7 @@
     * Box.com
     * Salesforce
 
-## Aug 2020 - Oct 2020
-
-    Role: Technical Team Lead Supporting the Online Leasing System
-    * Angular
-    * .Net Core
-
-    Skills
-    * React
-
-    Software Integration
-    * Firebase
-
-## Oct 2020 - Present
+## Aug 2020 - Nov 2020
 
     Role: Technical Team Lead Supporting the Online Leasing System
     * Angular
@@ -104,3 +92,7 @@
     
     Software Integration
     * Azure Active Directory
+
+## Nov 2020 - Present
+
+    Role: Software Engineer at RapidDeploy
