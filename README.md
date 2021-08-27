@@ -70,7 +70,7 @@
 
 ## Apr 2020 - Aug 2020
 
-    Role: Technical Team Lead Supporting the Online Leasing System
+    Role: Technical Team Lead Supporting the Online Leasing System / Solutions Architect.
     * Angular
     * .Net Core
 
@@ -82,7 +82,7 @@
 
 ## Aug 2020 - Nov 2020
 
-    Role: Technical Team Lead Supporting the Online Leasing System
+    Role: Technical Team Lead Supporting the Online Leasing System / Solutions Architect.
     * Angular
     * .Net Core
 
@@ -95,4 +95,28 @@
 
 ## Nov 2020 - Present
 
-    Role: Software Engineer at RapidDeploy
+    Role: Senior Software Engineer at RapidDeploy / Solutions Architect at Open Box Software.
+    
+    Skills
+    
+    Distributed architectures
+    
+    Frontend
+    * React
+    * Atomic Design
+    * Module Federation
+    * Micro Frontends
+    * k6
+    
+    Backend
+    * Redis
+    * CQRS
+    * MediatR
+    * Azure Service Bus
+    * Microservices
+    * SQL Server
+    * PowerShell
+    
+    Software Integration
+    * TokBox
+    * ArcGIS
