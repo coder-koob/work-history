@@ -1,8 +1,5 @@
 # Work History
 
-1. [ June 2011 - Dec 2011 ](#2011)
-
-<a name="2011"/>
 ## June 2011 - Dec 2011
 
     Internship
@@ -11,7 +8,6 @@
 
     Working on MRI then moving onto Custom Software built within .Net Framework
 
-<a name="2012"></a>
 ## Jan 2012 - March 2015
 
     Role: Developer Analyst / Technical Lead
