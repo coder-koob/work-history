@@ -93,7 +93,7 @@
     Software Integration
     * Azure Active Directory
 
-## Nov 2020 - Present
+## Nov 2020 - Feb 2022
 
     Role: Senior Software Engineer at RapidDeploy / Solutions Architect at Open Box Software.
     
@@ -120,3 +120,16 @@
     Software Integration
     * TokBox
     * ArcGIS
+    
+ ## Feb 2022 - Present
+ 
+    Role: Solutions Architect at Open Box Software
+    
+    Skills
+    
+    Frontend
+    * React
+    
+    Backend
+    * C#
+    * Clean Architecture
